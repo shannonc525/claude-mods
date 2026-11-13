@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "shannonc525" },
+  "description": "Mods for Claude Code.",
+  "plugins": [
+    {
+      "name": "session-band-zones",
+      "source": "./session-band-zones",
+      "description": "Session band with a smart-zone / dumb-zone indicator, cost, speed and prompt-cache countdown."
+    }
+  ]
+}
