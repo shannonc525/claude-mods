@@ -1,13 +1,13 @@
 {
   "name": "session-band-zones",
-  "version": "0.3.0",
-  "description": "Session band with a smart-zone / dumb-zone indicator: turn number, output speed, turn and session cost, prompt cache countdown and context fill; notifies before the cache expires.",
+  "version": "0.3.1",
+  "description": "Session band with a smart-zone / dumb-zone indicator: turn number, output speed, turn and session cost, prompt cache countdown and context fill; notifies before the cache expires. Modified from johnnyvizz's session-band.",
   "author": {
-    "name": "johnnyvizz",
-    "url": "https://github.com/johnnyvizz"
+    "name": "shannonc525",
+    "url": "https://github.com/shannonc525"
   },
   "types": "./types/index.d.ts",
-  "homepage": "https://github.com/johnnyvizz/claude-kit/tree/main/plugins/session-band",
-  "repository": "https://github.com/johnnyvizz/claude-kit",
+  "homepage": "https://github.com/shannonc525/claude-mods/tree/main/session-band-zones",
+  "repository": "https://github.com/shannonc525/claude-mods",
   "license": "MIT"
 }
